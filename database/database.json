@@ -1,0 +1,100 @@
+{
+  "allcommand": [
+    "S"
+  ],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [
+    {
+      "cmd": "S",
+      "succes": 2,
+      "failed": 0
+    }
+  ],
+  "listerror": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1707774305984,
+      "totalcmd": 2
+    }
+  ],
+  "clearchat": [],
+  "users": {
+    "6281359053674@s.whatsapp.net": {
+      "name": "ʀᴀɴɴ",
+      "id": "6281359053674",
+      "date": "11 Februari 2024",
+      "exp": 100,
+      "level": 1,
+      "hit": 2,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "KO8R",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363217488367630@g.us": {
+      "name": "Bot",
+      "add": 0,
+      "detect": true,
+      "welcome": true,
+      "sWelcome": true,
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "antitoxic": true,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": false,
+      "antivirtex": false,
+      "antiwame": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "clear": false,
+      "clearTime": 0,
+      "stiker": false,
+      "antiLink": true,
+      "antiBadword": true,
+      "nsfw": false
+    }
+  },
+  "settings": {},
+  "kickon": {},
+  "others": {}
+}
