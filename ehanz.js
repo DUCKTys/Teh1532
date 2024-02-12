@@ -473,8 +473,8 @@ antivirtex: false,
 antiwame: false,
 antihidetag: false,
 viewonce: true,
-clear: true,
-clearTime: 300,
+clear: false,
+clearTime: 0,
 }
 
 //STICKER
